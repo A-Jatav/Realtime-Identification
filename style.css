@@ -1,0 +1,13 @@
+body {
+    background-size: cover;
+    font-family: 'Covered By Your Grace', cursive !important;
+}
+
+canvas {
+    box-shadow: 10px 10px 10px grey;
+    border-radius: 20px;
+}
+
+h1, h3 {
+    font-size: 20px !important;
+}
